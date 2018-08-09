@@ -1,18 +1,18 @@
 # Petomatic
 
-###To run this project:
+#### To run this project:
 
 1) clone this repo
 2) inside project' folder clone [this](https://github.com/asyahubar/petomatic-final-backend) repo into **api** folder
 3) start backend on port **9999**
 
-###Available routes:
+#### Available routes:
 - `/` or `/login`
 - `/all`
 - `/create`
 - `/edit/:id`
 
-###Doctor accounts:
+#### Doctor accounts:
 
 Email | Password
 ----- | --------
